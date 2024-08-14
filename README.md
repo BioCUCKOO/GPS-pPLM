@@ -1,5 +1,5 @@
 # GPS-pPLM
-**Note**: The GPS-pPLM, which incorporated transformer and large langueage model(LLM), was developed to predict new phospharylation site in prokaryotes. 
+**Note**: The GPS-pPLM, which incorporated transformer and Deep Neural Network, was developed to predict new phospharylation site in prokaryotes. 
 
 ## Requirements
 
